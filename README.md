@@ -16,7 +16,7 @@ pandas
 numpy
 sklearn
 
-If you are using the UI code, you should update the path of the Tesseract OCR in the code and run the main.py using 'streamlit run main.py' command.
+If you are using the Streamlit UI code, you should update the path of the Tesseract OCR in the code and run the main.py using 'streamlit run main.py' command.
 
 Note:
 This project can be implemented using two ways. 
