@@ -1,7 +1,6 @@
 # Sudoku-Solver-with-Deep-Learning
 A simple Sudoku solver using Deep Learning and OpenCV
 
-
 The source code is in main.py in Streamlit folder.
 
 # Dependencies
@@ -26,7 +25,8 @@ This project can be implemented using two ways.
 
 # Dataset
 https://www.kaggle.com/bryanpark/sudoku  - For training Sudoku model
+
 https://www.kaggle.com/c/digit-recognizer/data  -  For number detection using Deep Learning.
 
-Credits
+# Credits
 Inspired from shivaverma and robovirmani.
