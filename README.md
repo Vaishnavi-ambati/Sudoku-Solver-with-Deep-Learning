@@ -1,5 +1,5 @@
 # Sudoku-Solver-with-Deep-Learning
-A simple Sudoku solver using Deep Learning and OpenCV
+This project uses OpenCV for detecting numbers from the uploaded image and Deep Learning solving Sudoku Puzzle.
 
 The source code is in main.py in Streamlit folder.
 
@@ -16,7 +16,7 @@ pandas
 numpy
 sklearn
 
-If you are using the Streamlit UI code, you should update the path of the Tesseract OCR in the code and run the main.py using 'streamlit run main.py' command after making the Deep Learning model file from 'Sudoku_Solver.ipynb'
+If you are using the Streamlit UI code, you should update the path of the Tesseract OCR in the code and run the main.py using 'streamlit run main.py' command after making the Deep Learning model file from 'Sudoku_Solver.ipynb'. Place the saved model in strealit folder.
 
 Note:
 This project can be implemented using two ways. 
