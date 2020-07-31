@@ -30,10 +30,9 @@ https://www.kaggle.com/c/digit-recognizer/data  -  For number detection using De
 
 # Results
 
-https://user-images.githubusercontent.com/50202237/89007751-fd4b2600-d326-11ea-8665-062bff232705.jpg
+![result1](https://user-images.githubusercontent.com/50202237/89007751-fd4b2600-d326-11ea-8665-062bff232705.jpg)
 
-
-https://user-images.githubusercontent.com/50202237/89007756-ff14e980-d326-11ea-92ea-ce7301be89e4.jpg
+![result2](https://user-images.githubusercontent.com/50202237/89007756-ff14e980-d326-11ea-92ea-ce7301be89e4.jpg)
 
 # Credits
 Inspired from shivaverma and robovirmani.
