@@ -192,7 +192,7 @@ def view_results(output_board):
     return 'trial.jpg'
     
     
-def solve_sudoku(game):
+def solve_sudoku(image):
     '''
         Main Solver Function
     '''
@@ -202,7 +202,7 @@ def solve_sudoku(game):
     input_game = ''
     for i in range(0, 9):
         for j in range(0, 9):
-            input_game = input_game + str(Game_board[i][j])
+            input_game = input_game + str(Game_board[j][i])
             input_game = input_game + ' '
             
     input_game = input_game.replace('\n', '')
