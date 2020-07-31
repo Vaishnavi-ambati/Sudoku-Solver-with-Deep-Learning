@@ -41,5 +41,4 @@ https://www.kaggle.com/c/digit-recognizer/data  -  For number detection using De
 
 # Credits
 Inspired from shivaverma and robovirmani.
-<a href = 'https://github.com/shivaverma/Sudoku-Solver'> Shivaverma </a>
-https://github.com/robovirmani/Sudoku
+
